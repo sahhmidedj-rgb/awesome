@@ -1,3 +1,8 @@
+## Sandboxing & Isolation Tools
+
+- [proot-distro](https://github.com/termux/proot-distro) - Create isolated Linux environments in Termux
+- [Cryptomator](https://cryptomator.org) - Encrypt files in the cloud (use the Android app for mobile)
+https://github.com/termux/proot-distro
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
